@@ -1,0 +1,37 @@
+package Ifelse;
+
+public class loops {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+		//for (int i=0; i<7; i++){
+			//System.out.println("Hi"+i+"hi");
+		//}
+		
+//		System.out.print(2>5);
+	
+//	int i =4;
+//	
+//	System.out.println(i%2==0);
+		
+		
+		int i =11;
+		
+		for(int k =2;k < i;k++){
+	
+			if(i%k==0 && i==k){
+				
+				System.out.println("It a prime number");
+				
+			}
+			else  {
+				
+				System.out.println("It is  not a prime number");
+				break;
+			}
+		}
+	//System.out.print("It is notr a prime number");
+	}		
+	}
+

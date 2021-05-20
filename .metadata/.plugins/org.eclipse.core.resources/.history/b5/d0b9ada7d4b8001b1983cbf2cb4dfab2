@@ -1,0 +1,22 @@
+
+public class stringclass {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+		String N1 = "Abhishek" ;
+
+		int k = N1.length();
+		
+		for (int i = 0 ; i < k ; i++){
+			
+			
+			System.out.println(N1.charAt(i));
+		
+		
+		}
+		
+		
+		}
+
+}
