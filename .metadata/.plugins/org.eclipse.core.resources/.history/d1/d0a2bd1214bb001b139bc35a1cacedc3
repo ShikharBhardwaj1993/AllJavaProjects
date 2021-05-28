@@ -1,0 +1,25 @@
+package assignments;
+import java.util.Scanner;
+
+public class Fact {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+		
+	Scanner inp = new Scanner(System.in);
+	
+	System.out.println("Enter the number for Factorial");
+	
+	int G = inp.nextInt();
+	
+	
+	System.out.println("Enter the number for Factorial"+G);	
+		
+		
+		
+		
+		
+	}
+
+}

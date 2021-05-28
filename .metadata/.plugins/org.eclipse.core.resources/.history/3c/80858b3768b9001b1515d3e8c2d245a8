@@ -1,0 +1,50 @@
+
+public class stringclass {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+//		String N1 = "Abh" ;
+//
+//		//int k = N1.length();
+//		String output = "";
+//		
+//		for ( int i= N1.length()-1 ; i>=0  ; i--){
+//			
+//			
+//			output = output + N1.charAt(i);
+//			//System.out.print(N1.charAt(i));
+//			
+//		
+//		}
+//		
+//		System.out.print(output);//when ever you add something with string it becomes string
+//		
+
+
+		String N3 = "Abhis";
+		
+		int k = N3.length();
+		//System.out.print(N3.length());		
+		if(k%2==0){
+			
+			System.out.print(k/2+1);
+		}
+		else {
+			
+			
+			System.out.print((k+1)/2);
+			
+		}
+		
+		
+		
+		
+		
+		
+		
+	
+	
+	}
+
+}

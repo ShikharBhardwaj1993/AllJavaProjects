@@ -1,0 +1,24 @@
+package arra;
+import java.util.Scanner;
+import java.util.Arrays;
+
+public class Arry {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+		Scanner inp = new Scanner(System.in);
+		
+		String S = inp.next();
+		
+		
+		
+		
+		
+		
+		
+		
+		
+	}
+
+}

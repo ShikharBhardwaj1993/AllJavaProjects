@@ -1,0 +1,25 @@
+package assignments;
+
+import java.util.Arrays;
+
+public class Fact {
+
+	public static void main(String[] args) {
+	
+	
+		int[] as = new int[3];
+		
+		as[0] = 1;
+		as[1] = 2;
+		as[2] = 3;
+		
+		System.out.println(Arrays.toString(as));
+		
+		
+		
+		
+	
+	
+	}
+}
+

@@ -1,0 +1,31 @@
+
+public class stringclass {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+//		String N1 = "Abh" ;
+//
+//		//int k = N1.length();
+//		String output = "";
+//		
+//		for ( int i= N1.length()-1 ; i>=0  ; i--){
+//			
+//			
+//			output = output + N1.charAt(i);
+//			//System.out.print(N1.charAt(i));
+//			
+//		
+//		}
+//		
+//		System.out.print(output);//when ever you add something with string it becomes string
+//		
+
+	String N2 = "Abhishek";
+	System.out.print(N2.substring(0 ,3));
+	
+	
+	
+	}
+
+}
