@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy element &apos;Xls_Reader.java&apos; to &apos;FacebookAutomation/src/main/java/WebApp.FacebookAutomation.Utility&apos;&#x0D;&#x0A;- Original project: &apos;SeleniumLearning&apos;&#x0D;&#x0A;- Destination element: &apos;FacebookAutomation/src/main/java/WebApp.FacebookAutomation.Utility&apos;&#x0D;&#x0A;- Original element: &apos;testNGDemo.Xls_Reader.java&apos;" description="Copy compilation unit" destination="=FacebookAutomation/src\/main\/java&lt;WebApp.FacebookAutomation.Utility" element1="/src&lt;testNGDemo{Xls_Reader.java" files="0" flags="589830" folders="0" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyResources" stamp="1630404302512" units="1" version="1.0"/>
+</session>

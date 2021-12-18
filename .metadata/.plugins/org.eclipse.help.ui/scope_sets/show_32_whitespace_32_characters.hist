@@ -1,0 +1,4 @@
+#Thu Dec 16 23:29:38 IST 2021
+__DEFAULT__=false
+org.eclipse.help.ui.localSearch.master=true
+expression=show whitespace characters

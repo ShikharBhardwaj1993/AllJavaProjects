@@ -1,0 +1,19 @@
+package practice1;
+
+public class Practice3 {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+		String d = "Anish";
+		
+		StringBuffer s=new StringBuffer(d);
+		
+		System.out.print(s.reverse());
+		
+		
+		
+		
+	}
+
+}

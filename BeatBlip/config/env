@@ -1,0 +1,3 @@
+browser=chrome
+env=QA
+url=http://beatblipdemo.agreeya.net/BeatBlipSubscriptionUI/#/login?logout=true 

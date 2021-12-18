@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="18287" started-at="2021-09-29T19:49:10Z" finished-at="2021-09-29T19:49:28Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="18287" started-at="2021-09-29T19:49:10Z" finished-at="2021-09-29T19:49:28Z">
+      <class name="Limepay.TechChallenge.Baseclass.openurl">
+        <test-method status="PASS" signature="hous()[pri:0, instance:Limepay.TechChallenge.Baseclass.openurl@1b0375b3]" name="hous" duration-ms="18275" started-at="2021-09-30T01:19:10Z" finished-at="2021-09-30T01:19:28Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- hous -->
+      </class> <!-- Limepay.TechChallenge.Baseclass.openurl -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

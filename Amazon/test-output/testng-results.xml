@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="8259" started-at="2021-11-15T12:25:33Z" finished-at="2021-11-15T12:25:41Z">
+    <groups>
+    </groups>
+    <test name="LoginTestScripts" duration-ms="8259" started-at="2021-11-15T12:25:33Z" finished-at="2021-11-15T12:25:41Z">
+      <class name="Limepay.Amazon.loginTC">
+        <test-method status="PASS" signature="openurl()[pri:0, instance:Limepay.Amazon.loginTC@1554909b]" name="openurl" is-config="true" duration-ms="3510" started-at="2021-11-15T17:55:33Z" finished-at="2021-11-15T17:55:36Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openurl -->
+        <test-method status="PASS" signature="joinmembers()[pri:0, instance:Limepay.Amazon.loginTC@1554909b]" name="joinmembers" duration-ms="3437" started-at="2021-11-15T17:55:36Z" finished-at="2021-11-15T17:55:40Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- joinmembers -->
+        <test-method status="PASS" signature="joinmembers2()[pri:0, instance:Limepay.Amazon.loginTC@1554909b]" name="joinmembers2" duration-ms="1298" started-at="2021-11-15T17:55:40Z" finished-at="2021-11-15T17:55:41Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- joinmembers2 -->
+      </class> <!-- Limepay.Amazon.loginTC -->
+      <class name="Limepay.Amazon.logintc2">
+        <test-method status="PASS" signature="script()[pri:0, instance:Limepay.Amazon.logintc2@6bf256fa]" name="script" duration-ms="0" started-at="2021-11-15T17:55:41Z" finished-at="2021-11-15T17:55:41Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- script -->
+      </class> <!-- Limepay.Amazon.logintc2 -->
+    </test> <!-- LoginTestScripts -->
+  </suite> <!-- Suite -->
+</testng-results>

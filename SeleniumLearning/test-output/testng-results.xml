@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="6276" started-at="2021-10-29T14:56:32Z" finished-at="2021-10-29T14:56:38Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="6276" started-at="2021-10-29T14:56:32Z" finished-at="2021-10-29T14:56:38Z">
+      <class name="testNGDemo.Facebookmultiplelogin">
+        <test-method status="PASS" signature="testFacebookLogin(java.lang.String, java.lang.String)[pri:0, instance:testNGDemo.Facebookmultiplelogin@5aa9e4eb]" name="testFacebookLogin" duration-ms="3413" started-at="2021-10-29T20:26:32Z" data-provider="getData" finished-at="2021-10-29T20:26:35Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[dsasdff]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[dsdsd]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testFacebookLogin -->
+        <test-method status="PASS" signature="testFacebookLogin(java.lang.String, java.lang.String)[pri:0, instance:testNGDemo.Facebookmultiplelogin@5aa9e4eb]" name="testFacebookLogin" duration-ms="2845" started-at="2021-10-29T20:26:35Z" data-provider="getData" finished-at="2021-10-29T20:26:38Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[dsadsa]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[sdasd]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testFacebookLogin -->
+      </class> <!-- testNGDemo.Facebookmultiplelogin -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

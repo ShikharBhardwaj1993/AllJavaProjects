@@ -1,0 +1,7 @@
+FacebookAutomation.outdir=/test-output
+FacebookAutomation.useProjectJar=true
+FacebookAutomation2.outdir=/test-output
+FacebookAutomation2.useProjectJar=false
+Test1.outdir=/test-output
+Test1.useProjectJar=true
+eclipse.preferences.version=1
